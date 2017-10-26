@@ -1,0 +1,10 @@
+/Users/capslock/Desktop/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.deps.json
+/Users/capslock/Desktop/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.runtimeconfig.json
+/Users/capslock/Desktop/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.runtimeconfig.dev.json
+/Users/capslock/Desktop/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.dll
+/Users/capslock/Desktop/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.pdb
+/Users/capslock/Desktop/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.csproj.CoreCompileInputs.cache
+/Users/capslock/Desktop/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.AssemblyInfoInputs.cache
+/Users/capslock/Desktop/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.AssemblyInfo.cs
+/Users/capslock/Desktop/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.dll
+/Users/capslock/Desktop/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.pdb
